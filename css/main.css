@@ -1,0 +1,58 @@
+@import './base/reset.css';
+
+/* components */
+@import './components/coment.css';
+@import './components/contact-form.css';
+@import './components/form.css';
+@import './components/logo-line.css';
+@import './components/review.css';
+
+/* header start */
+header {
+    display: flex;
+    height: 100px;
+    background-color: fff;
+    width: 100%;
+    align-items: center;
+    position: relative;
+}
+
+.logo {
+    height: 80px;
+    padding: 10px 400px 10px;
+}
+
+.icons {
+    align-items: right;
+    position: relative;
+    padding-top: 0px;
+    margin-left: 100px;
+    margin-bottom: 20px;
+}
+
+.menu {
+    display: flex;
+    align-items: right;
+    margin-top: 10px;
+}
+.menu > a {
+    color: black;
+    text-decoration: none;
+    padding-left: 20px;
+}
+.menu > a:hover {
+    color: grey;
+    text-decoration: none;
+}
+
+/* header end */
+
+/* hero start */
+.hero {
+    display: flex;
+    height: 118vh;
+    align-items: center;
+    background-attachment: fixed;
+}
+
+/* hero end */
