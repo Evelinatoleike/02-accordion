@@ -1,0 +1,26 @@
+{
+  "name": "01-darbinis-pojektas-intro",
+  "version": "1.0.0",
+  "description": "pvz",
+  "main": "index.js",
+  "scripts": {
+    "dev": "live-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Evelinatoleike/01-darbinis-pojektas-intro.git"
+  },
+  "keywords": [
+    "html", "npm", "live-server"
+  ],
+  "author": "Evelinatoleike",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Evelinatoleike/01-darbinis-pojektas-intro/issues"
+  },
+  "homepage": "https://github.com/Evelinatoleike/01-darbinis-pojektas-intro#readme",
+  "dependencies": {
+    "live-server": "^1.0.0"
+  }
+}
