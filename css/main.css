@@ -30,7 +30,7 @@ header {
   margin-left: 10%;
 }
 
-.container > .logo {
+.container > .container-logo {
   align-items: center;
   height: 80px;
   width: auto;
@@ -83,12 +83,12 @@ header {
 
 /* header end */
 
-/* hero start */
+/* section start */
 .hero {
   display: flex;
-  height: 118vh;
+  width: 100%;
   align-items: center;
   background-attachment: fixed;
 }
 
-/* hero end */
+/* section end */

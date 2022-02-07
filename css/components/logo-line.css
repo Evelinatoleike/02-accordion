@@ -1,0 +1,16 @@
+.logo-line {
+  background-color: lightgray;
+  height: 80px;
+}
+
+.all-logo {
+  display: inline-block;
+  margin: 0 15% 0 15%;
+}
+
+.logo {
+  display: inline-flex;
+  align-items: center;
+  height: 50px;
+  margin: 15px 30px 15px;
+}
